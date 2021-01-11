@@ -20,3 +20,4 @@ After that, we looked at the statistical average and fluctuation (standard devia
 <img width="133" alt="Screen Shot 2021-01-11 at 1 50 46 PM" src="https://user-images.githubusercontent.com/68168883/104226123-4c889d00-5415-11eb-9a9f-2a59c1a7f68e.png">
 
 ## December 
+<img width="158" alt="Screen Shot 2021-01-11 at 2 01 49 PM" src="https://user-images.githubusercontent.com/68168883/104226369-adb07080-5415-11eb-8f62-49264400f792.png">

@@ -21,3 +21,13 @@ After that, we looked at the statistical average and fluctuation (standard devia
 
 ## December 
 <img width="158" alt="Screen Shot 2021-01-11 at 2 01 49 PM" src="https://user-images.githubusercontent.com/68168883/104226369-adb07080-5415-11eb-8f62-49264400f792.png">
+
+We can see from the comparison of the 2, that June on average was warmer than December, as one would expect. The high temperature for June was warmer than December and the low temperature for December was lower than June. The difference in the standard deviation for the temperatures for June and December were very close (a difference of 0.5) indicating that over this period of time, there was not a great deal of temperature fluctuation. 
+
+# Summary
+
+- From this analysis, we can surmise that it might get a little chillier in the evening in December but that temperature (56 degrees) would still likely be warmer and more appealing for those living in colder places (like New York!). With the average temperature still at 71 degrees, it would indicate that this would be a desirable destination for those trying to escape the cold weather. 
+
+- An added bonus is that even in the summer months, it doesn't appear as though the high temperature or average temperature is oppressively hot. This is important because that would allow Hawaii to still be a desirable vacation locale even during the warmer summer months. What this would indicate is that because of the relatively steady weather, Hawaii would remain a place to attract tourists year round. 
+
+- Some other important data that we should consider would be factors such as rainfall and humidity to go along with the temperature. This would give us a more well-rounded view of the overall climate in Hawaii during the months of June and December. Additional information regarding the temperature of the months between June and December would also provide more information for us to glean from in order to gain a better understanding of the overall viability of this business venture. 

@@ -14,5 +14,7 @@ december_tobs = session.query(Measurement.date, Measurement.tobs).filter(extract
 
 After that, we looked at the statistical average and fluctuation (standard deviation) as well as the high and lows of the temperature for the given months we were looking at. This was done in order to determine how sustainable this shop would be given the shop would be a tourist-centric endeadvor. 
 
+# Results
+
 
 
